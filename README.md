@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+React components for fintech/ online banking platforms
+
+<img src="./images/screen-shot.png" alt="" width="450px">
 
 ## Getting Started
 
