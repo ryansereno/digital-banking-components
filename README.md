@@ -1,8 +1,7 @@
+<h3 align="center">React components for fintech/ online banking platforms<h3/>
 <div align="center">
-<p>React components for fintech/ online banking platforms<p/>
-
 <img src="./images/screen-shot.png" alt="" width="450px">
-<div/>
+</div>
 
 ## Getting Started
 
