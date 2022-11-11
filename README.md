@@ -1,7 +1,8 @@
+<div align="center">
 React components for fintech/ online banking platforms
 
 <img src="./images/screen-shot.png" alt="" width="450px">
-
+<div/>
 ## Getting Started
 
 First, run the development server:
